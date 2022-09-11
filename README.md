@@ -1,4 +1,4 @@
-### Playwright + Cucumberjs Quickstart
+### Playwright + Cucumberjs
 
 ## To run the tests
 
